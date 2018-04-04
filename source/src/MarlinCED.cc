@@ -1585,7 +1585,7 @@ void MarlinCED::drawDetectorFromGear( gear::GearMgr* gearMgr ){
     unsigned vxdCol  = 0xafafaf ;
     unsigned sitCol  = 0xdddddd ;
     unsigned setCol  = 0xdddddd ;
-    unsigned tpcCol  = 0xf5f300 ;
+    unsigned tpcCol  = 0xf2f4f7 ;
     unsigned ecalCol = 0x7bf300 ;
     unsigned hcalCol = 0xc4c231 ;
     unsigned yokeCol = 0x18c2c4 ;
@@ -1609,7 +1609,7 @@ void MarlinCED::drawDetectorFromGear( gear::GearMgr* gearMgr ){
         vxdCol  = 0x646464 ;
         sitCol  = 0x8c6e0a ;
         setCol  = 0xcccc66 ;
-        tpcCol  = 0xf5f300 ;
+        tpcCol  = 0xf2f4f7 ;
         ecalCol = 0x339900 ;
         hcalCol = 0x141e96 ;
         yokeCol = 0x990000 ;
